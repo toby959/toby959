@@ -1,9 +1,4 @@
 
-  <style>
-    body {
-      background-color: #1a750c; /* Reemplaza #f2f2f2 con el color de fondo deseado */
-    }
-  </style>
 <h1 align="center">Hi 👋, I'm Christian Ariel Garay</h1>
 <h3 align="center">A passionate backend developer from Argentina</h3>
 <!--
