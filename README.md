@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Christian Ariel Garay</h1>
-<div class="center">
+<div aling="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7631C&background=148AA600&width=435&lines=I+await+your+connection+to+contribute" alt="Typing SVG" /></a>
   </div>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
