@@ -1,6 +1,8 @@
 
 <h1 align="center">Hi 👋, I'm Christian Ariel Garay</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7631C&background=148AA68F&width=435&lines=I+await+your+connection+to+contribute" alt="Typing SVG" /></a>
+<div class="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7631C&background=148AA600&width=435&lines=I+await+your+connection+to+contribute" alt="Typing SVG" /></a>
+  </div>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=0e75b6&style=flat" alt="toby959" /> </p>
