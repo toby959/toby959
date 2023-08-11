@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Christian Ariel Garay</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7631C&background=148AA68F&width=435&lines=I+await+your+connection+to+contribute)](https://git.io/typing-svg)
 <h3 align="center">A passionate backend developer from Argentina</h3>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=0e75b6&style=flat" alt="toby959" /> </p>
