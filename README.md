@@ -5,9 +5,9 @@
 <a aling="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7631C&background=148AA600&width=435&lines=I+await+your+connection+to+contribute" alt="Typing SVG" /></a>
 
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
-<!--
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=0e75b6&style=flat" alt="toby959" /> </p>
--->
+
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toby959" alt="toby959" /></a> </p>
 -->
