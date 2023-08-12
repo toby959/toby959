@@ -1,4 +1,11 @@
-<img align="right" src="https://camo.githubusercontent.com/8e401571ba35b222c5d2e7ab6332adb66ed1e96e285a8e9208b767a8384eb694/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d616e647265696e616f6c69766569726126636f6c6f723d666636396234" data-canonical-src="https://komarev.com/ghpvc/?username=toby959&amp;color=ff69b4" style="max-width: 100%;">
+
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=#0eb40e&style=flat" alt="toby959" /> </p>
+<div align="center">
+  <a href="https://github.com/toby959">
+    <img align="center" src="foco.jpg" width="500">
+  </a>
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Christian Ariel Garay</h1>
 
@@ -6,7 +13,6 @@
 
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=0e75b6&style=flat" alt="toby959" /> </p>
 
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toby959" alt="toby959" /></a> </p>
