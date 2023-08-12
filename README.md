@@ -1,8 +1,8 @@
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=#61b40e&style=flat" alt="toby959" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=ff69b4&style=flat" alt="toby959" /> </p>
 <div align="center">
   <a href="https://github.com/toby959">
-    <img align="center" src="foco.jpg" width="250">
+    <img align="center" src="foco.jpg" width="250" style="max-width: 100%;">
   </a>
 </div>
 
