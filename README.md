@@ -46,15 +46,10 @@ width="40" height="40"/> </a>
 
 
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=toby959&show_icons=true&theme=highcontrast&hide_border=true"alt="toby959" /></p>
 
-<!--
-
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.vercel.app/api?username=toby959&show_icons=true&theme=merko&hide_border=true" alt="toby959" /></p>
--->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toby959&theme=merko&hide_border=true" alt="toby959" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toby959&layout=donut&theme=highcontrast&hide_border=true" alt="toby959" /></p>
 
 
-<!--
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toby959&layout=donut&theme=merko&hide_border=true" alt="toby959" /></p>
--->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toby959&theme=highcontrast&hide_border=true" alt="toby959" /></p>
+
