@@ -79,10 +79,10 @@ width="40" height="40"/> </a>
 <img aling="center" src="pantalla_admin.png" whidt="250" style="max-width: 100%;" />
 <br><br><br>
 <a href="https://github.com/toby959/toby959/README.md" >
-<img aling="center" src="pantalla_CRUD.png" whidt="250" style="max-width: 100%;" />
+<img aling="center" src="pantalla_CRUD .png" whidt="250" style="max-width: 100%;" />
 <br><br><br>
 <a href="https://github.com/toby959/toby959/README.md" >
-<img aling="center" src="pantalla_db_crud.png" whidt="250" style="max-width: 100%;" />
+<img aling="center" src="pantalla_db.png" whidt="250" style="max-width: 100%;" />
 <br><br><br>
 <a href="https://github.com/toby959/toby959/README.md" >
 <img aling="center" src="pantalla_registro_admin.png" whidt="250" style="max-width: 100%;" />
