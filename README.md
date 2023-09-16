@@ -1,8 +1,8 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=toby959&label=Profile%20views&color=0e75b6&style=flat" alt="toby959" /> </p>
 <div align="center">
-  <a href="https://github.com/toby959">
+<!--  <a href="https://github.com/toby959">
     <img align="center" src="foco.jpg" width="250" style="max-width: 100%;">
-  </a>
+  </a>  -->
 </div>
 
 
@@ -52,4 +52,6 @@ width="40" height="40"/> </a>
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toby959&theme=highcontrast&hide_border=true" alt="toby959" /></p>
+
+
 
