@@ -22,6 +22,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/christian-garay959](https://www.linkedin.com/in/christian-garay959)
 
+- Page: "https://pelu-sol.000webhostapp.com/sitioweb/index.php".  -*-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/ christian-garay959" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ christian-garay959" height="30" width="40" /></a>
@@ -54,4 +55,38 @@ width="40" height="40"/> </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=toby959&theme=highcontrast&hide_border=true" alt="toby959" /></p>
 
 
+<hr>
+<div aling="center">
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_inicio.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_footer.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_servicios.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_nosotros.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_login_admin.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_ingreso_login.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_admin.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_CRUD.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_db_crud.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+<a href="https://github.com/toby959/toby959/README.md" >
+<img aling="center" src="pantalla_registro_admin.png" whidt="250" style="max-width: 100%;" />
+<br><br><br>
+
+</div>
 
